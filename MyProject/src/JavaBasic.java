@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.io.*;
 
 class info{
 	public void college() {
